@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prb936
+- 👋 Hi, I’m prb
 - 👀 I’m interested in what comp dev do
 - 🌱 I’m currently learning arrays
 - 💞️ I’m looking to collaborate on ...
